@@ -1,0 +1,112 @@
+2026-06-19	rc.xml KEYBINDS
+-------------------------------
+
+ 0	W-space       				root-menu
+ 1	A-space       				client-menu
+ 2	A-S-space     				client-list-combined-menu
+ 3	C-A-space     				app-menu
+ 4	W-Tab         				NextWindow
+ 5	W-S-Tab       				PreviousWindow
+ 6	A-Tab         				NextWindow
+ 7	A-S-Tab       				PreviousWindow
+ 8	C-A-Right     				GoToDesktop
+ 9	C-A-Left      				GoToDesktop
+10	W-1           				GoToDesktop
+11	W-2           				GoToDesktop
+12	W-3           				GoToDesktop
+13	W-4           				GoToDesktop
+14	W-5           				GoToDesktop
+15	W-equal       				AddDesktop
+16	W-minus       				RemoveDesktop
+17	W-d           				ToggleShowDesktop
+18	C-S-R         				dunstify -u low -h string:x-dunst-stack-tag:obaction "Configuration Reloaded!"
+19	C-S-BackSpace  			Restart
+20	C-A-Delete     			Exit
+21	W-S-Right     				SendToDesktop
+22	W-S-Left      				SendToDesktop
+23	S-W-1         				SendToDesktop
+24	S-W-2         				SendToDesktop
+25	S-W-3         				SendToDesktop
+26	S-W-4         				SendToDesktop
+27	S-W-5         				SendToDesktop
+28	W-A-Up        				MoveRelative
+29	W-A-Down      				MoveRelative
+30	W-A-Left      				MoveRelative
+31	W-A-Right     				MoveRelative
+32	W-C-Right     				ResizeRelative
+33	W-C-Left      				ResizeRelative
+34	W-C-Down      				ResizeRelative
+35	W-C-Up        				ResizeRelative
+36	W-A-m         				dunstify -u low -h string:x-dunst-stack-tag:obaction "Begin Interactive Moving"
+37	W-A-r         				dunstify -u low -h string:x-dunst-stack-tag:obaction "Begin Interactiv.....
+38	W-Left        				UnmaximizeFull
+39	W-Right       				UnmaximizeFull
+40	W-Up          				MaximizeFull
+41	W-Down        				UnmaximizeFull
+42	W-S-Up        				UnmaximizeFull
+43	W-S-Down      				UnmaximizeFull
+44	W-k           				Unmaximize
+45	W-S-k         				Unmaximize
+46	W-h           				Unmaximize
+47	W-S-h         				Unmaximize
+48	W-j           				Unmaximize
+49	W-S-j         				Unmaximize
+50	W-l           				Unmaximize
+51	W-S-l         				Unmaximize
+52	W-KP_1        				UnmaximizeFull
+53	W-KP_2        				UnmaximizeFull
+54	W-KP_3        				UnmaximizeFull
+55	W-KP_4        				UnmaximizeFull
+56	W-KP_5        				MaximizeFull
+57	W-KP_6        				UnmaximizeFull
+58	W-KP_7        				UnmaximizeFull
+59	W-KP_8        				UnmaximizeFull
+60	W-KP_9        				UnmaximizeFull
+61	W-c           				Close
+62	W-q           				Close
+63	A-F4          				Close
+64	A-F5          				Iconify
+65	A-F6          				ToggleMaximize
+66	A-F7          				ToggleShade
+67	A-F8          				ToggleDecorations
+68	A-F9          				ToggleOmnipresent
+69	A-F10         				ToggleFullscreen
+70	A-F11         				ToggleAlwaysOnTop
+71	A-F12         				ToggleAlwaysOnBottom
+72	Print         				ob-screenshot --now
+73	A-Print       				ob-screenshot --in5
+74	S-Print       				ob-screenshot --in10
+75	C-Print       				ob-screenshot --win
+76	W-Print       				ob-screenshot --area
+77	XF86MonBrightnessUp	ob-brightness --inc
+78	XF86MonBrightnessDown	ob-brightness --dec
+79	XF86AudioRaiseVolume	ob-volume --inc
+80	XF86AudioLowerVolume	ob-volume --dec
+81	XF86AudioMute  			ob-volume --toggle
+82	XF86AudioMicMute	ob-volume --toggle-mic
+83	XF86AudioStop  			mpc stop
+84	XF86AudioPlay  			mpc toggle
+85	XF86AudioPrev  			mpc prev
+86	XF86AudioNext  			mpc next
+87	W-Return      				alacritty
+88	W-S-Return     			kitty
+89	W-f           				thunar
+90	W-w           				firefox
+91	W-e           				geany
+92	A-F1          				rofi-launcher
+93	W-n           				networkmanager_dmenu
+94	W-b           				rofi-bluetooth
+95	W-m           				rofi-music
+96	W-x           				rofi-powermenu
+97	W-s           				rofi-screenshot
+98	W-r           				rofi-runner
+99	C-A-t         				xfce4-terminal
+100	C-A-v         				alacritty -e vim
+101	C-A-r         				alacritty -e ranger
+102	C-A-h         				alacritty -e htop
+103	C-A-l         				betterlockscreen --lock
+104	W-t           				ob-furminal
+105	W-p           				ob-colorpicker
+106	C-A-m         				ob-music
+107	W-Escape      				xkill
+108	A-b           				bwm
