@@ -40,4 +40,7 @@ echo "[+] Stowing dotfiles..."
 cd ~/dotfiles
 stow openbox kitty picom rofi dunst gtk nitrogen neofetch ranger zsh
 
+# Apps
+sudo pacman -S --needed ferdium-bin visual-studio-code-bin pix
+
 echo "✅ Done! Please log out and back in for group changes to take effect."
