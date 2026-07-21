@@ -21,7 +21,7 @@ sudo pacman -Syy
 
 # Terminal & Shell
 echo "[+] Installing terminal and shell tools..."
-sudo pacman -S --needed kitty yazi stow zoxide fzf bat eza btop fastfetch
+sudo pacman -S --needed kitty yazi stow zoxide fzf bleachbit lynis ripgrep fd tldr bat xclip copyq eza btop fastfetch
 
 # Dev tools
 echo "[+] Installing dev tools..."
