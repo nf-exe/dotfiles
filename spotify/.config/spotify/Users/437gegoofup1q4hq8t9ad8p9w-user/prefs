@@ -1,0 +1,13 @@
+audio.equalizer.high_shelf_gain_v2=-268435456
+audio.equalizer.low_mid_peak_gain_v2=671088640
+audio.equalizer_v2=true
+audio.equalizer.high_mid_peak_gain_v2=671088640
+connect.mdns_devices="[{\"created_timestamp\":1784958849,\"device_id\":\"\",\"device_info\":{\"addresses\":[\"172.17.63.181\"],\"availability\":\"any\",\"device_type\":\"unknown\",\"get_info_json\":\"\",\"is_group\":false,\"should_send_wol\":false},\"discovery_name\":\"Spotify Desktop Launcher(1)._spotify-connect._tcp.local\",\"display_name\":\"\",\"hostname\":\"DESKTOP-RLN06CP.local\",\"last_seen\":1784964560,\"page_uri\":\"/zc\",\"port\":52139,\"public_ip\":\"182.66.218.120\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"\",\"version\":\"\"},\"ttl\":60,\"txt_records\":{\"CPath\":\"/zc\"}},{\"created_timestamp\":1784909018,\"device_id\":\"\",\"device_info\":{\"addresses\":[\"172.17.58.111\"],\"availability\":\"any\",\"device_type\":\"unknown\",\"get_info_json\":\"\",\"is_group\":false,\"should_send_wol\":false},\"discovery_name\":\"Spotify Desktop Launcher._spotify-connect._tcp.local\",\"display_name\":\"\",\"hostname\":\"DESKTOP-M8A3LDF.local\",\"last_seen\":1785171424,\"page_uri\":\"/zc\",\"port\":49674,\"public_ip\":\"182.66.218.120\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"\",\"version\":\"\"},\"ttl\":60,\"txt_records\":{\"CPath\":\"/zc\"}}]"
+connect.dial_devices="[]"
+audio.play_bitrate_non_metered_migrated=true
+audio.crossfade_v2=true
+audio.equalizer.high_peak_gain_v2=536870912
+audio.equalizer.low_peak_gain_v2=-536870912
+app.browser.zoom-level=150
+audio.loudness.environment=0
+audio.equalizer.low_shelf_gain_v2=-536870912
