@@ -44,3 +44,9 @@ stow openbox kitty picom rofi dunst gtk nitrogen neofetch ranger zsh
 sudo pacman -S --needed ferdium-bin visual-studio-code-bin pix filelight
 
 echo "✅ Done! Please log out and back in for group changes to take effect."
+
+# Clone repos
+echo "[+] Cloning repos..."
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/VundleVim/vim_runtime ~/.vim_runtime
+git clone https://github.com/spicetify/spicetify-themes ~/spicetify-themes
