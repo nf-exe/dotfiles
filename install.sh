@@ -41,7 +41,7 @@ cd ~/dotfiles
 stow openbox kitty picom rofi dunst gtk nitrogen neofetch ranger zsh
 
 # Apps
-sudo pacman -S --needed ferdium-bin visual-studio-code-bin pix filelight
+sudo pacman -S --needed ferdium-bin visual-studio-code-bin pix filelight vlc
 
 echo "✅ Done! Please log out and back in for group changes to take effect."
 
